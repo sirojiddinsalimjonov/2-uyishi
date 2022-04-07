@@ -152,7 +152,7 @@ img {
 
 /* section 3 */
 
-.main-section {
+.main-bottom {
   margin-top: 200px;
   margin-bottom: 250px;
   position: relative;
@@ -197,7 +197,7 @@ img {
 /* section 4 */
 .main-section {
 }
-.main-section__text {
+.main-section__list-text {
   font-family: "Fraunces", serif;
   font-style: normal;
   font-weight: 900;
@@ -206,7 +206,7 @@ img {
   color: #83888f;
 }
 
-.main-bottom_list {
+.main-bottom_list-item {
   margin: 0;
   padding: 0;
   margin-top: 80px;
